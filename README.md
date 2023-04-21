@@ -1,4 +1,4 @@
-#Automating CoinMarketCap Website API Pull Using Python
+*Automating CoinMarketCap Website API Pull Using Python*
 
 The API connection code is provided by CoinMarketCap
 
